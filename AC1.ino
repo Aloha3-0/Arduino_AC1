@@ -1,7 +1,7 @@
 //variaveis da led
 const int vermelho = 5;
 const int verde = 6;
-const int azul = 7
+const int azul = 7;
 
 bool estadoLedVermelho = false;
 
@@ -16,7 +16,7 @@ void setup()
   
   pinMode(vermelho, OUTPUT);
   pinMode(verde, OUTPUT);
-  pinMode(azul, saida);
+  pinMode(azul, OUTPUT);
   
   Serial.begin(9600);
 	
@@ -34,10 +34,10 @@ void loop()
   }
   
   //verificador de tempetura
-  if(getTemperatura() > 30){
+  if(getTemperatura() > 15){
     ledAzul(true);
   }else{
-  	ledAzul(falso); 
+  	ledAzul(false); 
   }
   	
   delay(10);
