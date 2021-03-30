@@ -8,11 +8,16 @@ Use o FORK para adicionar esse projeto a sua organização antes de começar.
 
 ![](https://github.com/Leoruiz197/Arduino_AC1/blob/main/AC1.png)
 
-## **O PROBLEMA:** 
+## INTEGRANTES
+**Bianca Leite Francesconi**
 
-Seu grupo foi contratado para realizar a automação do chão de fábrica de uma farmacêutica responsável por produzir doses de vacina, a automação levará em conta alguns sensores e avisos luminosos para os funcionários responsáveis pela produção.
+![](https://github.com/Aloha3-0/Arduino_AC1/blob/main/bianca.jpeg)
 
-Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar cada ponto necessário para completar o desafio.
+Oie, eu sou a Bianca Leite, tenho 17 anos e sou da sala do 3RA. Sou apaixonada pela praiaa, amo dançar e também, sempre topo um rolezinhoo. Nesse trabalho eu serei responsável por comentar o código.
+
+**Guilherme Ielmini Scavizzi**
+
+
 
 ### Funcionalidades esperadas:
 
