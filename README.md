@@ -15,7 +15,7 @@ Devemos seguir nossa orientação para que todos usufruam dos produtos.
 ![](https://github.com/Aloha3-0/Arduino_AC1/blob/main/bianca.jpeg)
   
 * Oie, eu sou a Bianca Leite, tenho 17 anos e sou da sala do 3RA.
-Sou apaixonada pela praiaa, amo dançar e também, sempre topo um rolezinhoo. 
+* Sou apaixonada pela praiaa, amo dançar e também, sempre topo um rolezinhoo. 
 ###### * Nesse trabalho eu serei responsável por comentar o código.
 
 
@@ -25,7 +25,6 @@ Sou apaixonada pela praiaa, amo dançar e também, sempre topo um rolezinhoo.
 ![](https://github.com/Aloha3-0/Arduino_AC1/blob/main/guilherme.jpeg)
 
 * Coe, sou o Guilherme Ielmini e sou carioca.
-
 AMO futebol, gosto um pouco de todas as músicas mas eu AMO um funk e um samba/pagode e ODEIO ficar em casa. 
 ###### * Nesse trabalho vou ser responsável pela correção do circuito no Tinkercad.
 
@@ -36,7 +35,6 @@ AMO futebol, gosto um pouco de todas as músicas mas eu AMO um funk e um samba/p
 ![](https://github.com/Aloha3-0/Arduino_AC1/blob/main/isabela.jpeg)
 
 * Eaii, sou a Isabela Hansel, to a 12 anos no módulo.
-
 Amoo séries, gosto muito de ver futebol e jogar hand e vôlei e amo dançar :) 
 ###### * No nosso trabalho eu to responsável por editar o read.me. 
 
@@ -47,7 +45,6 @@ Amoo séries, gosto muito de ver futebol e jogar hand e vôlei e amo dançar :)
 ![](https://github.com/Aloha3-0/Arduino_AC1/blob/main/mariaeduarda.jpeg)
 
 * Oiie, sou a Maria Eduarda, tenho 18 anos.
-
 Sou bem extrovertida, to no módulo minha vida inteira adoro ver séries, dançar e cantar.
 ###### * Nesse trabalho aqui eu estou responsável por documentar o projeto.
 
@@ -58,7 +55,6 @@ Sou bem extrovertida, to no módulo minha vida inteira adoro ver séries, dança
 ![](https://github.com/Aloha3-0/Arduino_AC1/blob/main/sophia.jpeg)
 
 * Oiêe, meu nome é Sophia e eu sou musicista hehehe.
-
 Música é a grande paixão da minha vida, eu namoro há quase 2 anos, sou apaixonada por leitura e cinema! 
 ###### * Nesse trabalho aqui eu estou responsável pela correção do código.
 
