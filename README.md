@@ -14,8 +14,9 @@ Devemos seguir nossa orientação para que todos usufruam dos produtos.
 
 ![](https://github.com/Aloha3-0/Arduino_AC1/blob/main/bianca.jpeg)
   
-##### Oie, eu sou a Bianca Leite, tenho 17 anos e sou da sala do 3RA.
-##### Sou apaixonada pela praiaa, amo dançar e também, sempre topo um rolezinhoo. 
+* Oie, eu sou a Bianca Leite, tenho 17 anos e sou da sala do 3RA.
+
+Sou apaixonada pela praiaa, amo dançar e também, sempre topo um rolezinhoo. 
 ###### Nesse trabalho eu serei responsável por comentar o código.
 
 
@@ -24,8 +25,9 @@ Devemos seguir nossa orientação para que todos usufruam dos produtos.
 
 ![](https://github.com/Aloha3-0/Arduino_AC1/blob/main/guilherme.jpeg)
 
-##### Coe, sou o Guilherme Ielmini e sou carioca.
-##### AMO futebol, gosto um pouco de todas as músicas mas eu AMO um funk e um samba/pagode e ODEIO ficar em casa. 
+* Coe, sou o Guilherme Ielmini e sou carioca.
+
+AMO futebol, gosto um pouco de todas as músicas mas eu AMO um funk e um samba/pagode e ODEIO ficar em casa. 
 ###### Nesse trabalho vou ser responsável pela correção do circuito no Tinkercad.
 
 
@@ -34,8 +36,9 @@ Devemos seguir nossa orientação para que todos usufruam dos produtos.
 
 ![](https://github.com/Aloha3-0/Arduino_AC1/blob/main/isabela.jpeg)
 
-##### Eaii, sou a Isabela Hansel, to a 12 anos no módulo.
-##### Amoo séries, gosto muito de ver futebol e jogar hand e vôlei e amo dançar :) 
+* Eaii, sou a Isabela Hansel, to a 12 anos no módulo.
+
+Amoo séries, gosto muito de ver futebol e jogar hand e vôlei e amo dançar :) 
 ###### No nosso trabalho eu to responsável por editar o read.me. 
 
 
@@ -44,8 +47,9 @@ Devemos seguir nossa orientação para que todos usufruam dos produtos.
 
 ![](https://github.com/Aloha3-0/Arduino_AC1/blob/main/mariaeduarda.jpeg)
 
-##### Oiie, sou a Maria Eduarda, tenho 18 anos.
-##### Sou bem extrovertida, to no módulo minha vida inteira adoro ver séries, dançar e cantar.
+* Oiie, sou a Maria Eduarda, tenho 18 anos.
+
+Sou bem extrovertida, to no módulo minha vida inteira adoro ver séries, dançar e cantar.
 ###### Nesse trabalho aqui eu estou responsável por documentar o projeto.
 
 
@@ -54,14 +58,15 @@ Devemos seguir nossa orientação para que todos usufruam dos produtos.
 
 ![](https://github.com/Aloha3-0/Arduino_AC1/blob/main/sophia.jpeg)
 
-##### Oiêe, meu nome é Sophia e eu sou musicista hehehe.
-##### Música é a grande paixão da minha vida, eu namoro há quase 2 anos, sou apaixonada por leitura e cinema! 
+* Oiêe, meu nome é Sophia e eu sou musicista hehehe.
+
+Música é a grande paixão da minha vida, eu namoro há quase 2 anos, sou apaixonada por leitura e cinema! 
 ###### Nesse trabalho aqui eu estou responsável pela correção do código.
 
 
 
 
-### Documentação do projeto:
+### DOCUMENTAÇÃO DO PROJETO:
 
 - Um botão para ligar e outro para desligar a produção indicados pelo led vermelho.
 - Leitura do sensor de temperatura e teste, ao atingir **15℃** o led azul deve acender, deve ser informado via serial e somente apagar o led quando a temperatura for mais baixa que isso.
