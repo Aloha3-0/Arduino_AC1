@@ -51,7 +51,8 @@ void loop()
   	ledAzul(false); 
 	   Serial.println("Temperatura abaixo de 15ºC");
   }
- if(getLuminosidade() > 5){
+//verificador de luminosidade
+if(getLuminosidade() > 5){
     ledVerde(true);
            Serial.println("Luminosidade alta");
  }else{
