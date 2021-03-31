@@ -31,10 +31,14 @@ void loop()
 {
   if((millis() - lastDebounceTime1) > botaoDelay && digitalRead(botao1)){
   	Serial.println("botao 1 apertado");
-    ledVermelho();
+    ledVermelho(true);
   	lastDebounceTime1 = millis();
   }
-  
+    if((millis() - lastDebounceTime2) > botaoDelay && digitalRead(botao2)){//código para exibir o comando apenas uma vez ao apertar o botão
+  	Serial.println("Sistema desligado");
+    ledVermelho(false);
+  	lastDebounceTime2 = millis();
+  }
   //verificador de tempetura
   if(getTemperatura() > 15){
     ledAzul(true);
