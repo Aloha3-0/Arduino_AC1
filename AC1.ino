@@ -13,6 +13,7 @@ unsigned long lastDebounceTime1 = 0;
 unsigned long lastDebounceTime2 = 0;
 const int botaoDelay = 100;
 
+//declarando as entradas dos componente de entrada e saída
 void setup()
 {
   pinMode(A0, INPUT);
