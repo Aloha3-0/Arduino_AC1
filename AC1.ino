@@ -6,6 +6,7 @@ const int azul = 7;
 //variavel de verdadeiro ou falso
 bool estadoLedVermelho = false;
 
+//variaveis dos botões
 const int botao1 = 2;
 const int botao2 = 3;
 unsigned long lastDebounceTime1 = 0;
