@@ -33,12 +33,12 @@ void setup()
 //programando as funcionalidades
 void loop()
 {
-  if((millis() - lastDebounceTime1) > botaoDelay && digitalRead(botao1)){
+  if((millis() - lastDebounceTime1) > botaoDelay && digitalRead(botao1)){ //codigo para exibir o comando apenas uma vez ao apertar o botao
   	Serial.println("botao 1 apertado");
     ledVermelho(true);
   	lastDebounceTime1 = millis();
   }
-    if((millis() - lastDebounceTime2) > botaoDelay && digitalRead(botao2)){
+    if((millis() - lastDebounceTime2) > botaoDelay && digitalRead(botao2)){ //codigo para exibir o comando apenas uma vez ao apertar o botao
   	Serial.println("Sistema desligado");
     ledVermelho(false);
   	lastDebounceTime2 = millis();
