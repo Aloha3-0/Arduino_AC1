@@ -30,6 +30,7 @@ void setup()
   Serial.println("Grupo: Aloha 3.0             ");
 }
 
+//programando as funcionalidades
 void loop()
 {
   if((millis() - lastDebounceTime1) > botaoDelay && digitalRead(botao1)){
