@@ -42,15 +42,17 @@ void loop()
   //verificador de tempetura
   if(getTemperatura() > 15){
     ledAzul(true);
+	  Serial.println("Temperatura acima de 15ºC");
   }else{
   	ledAzul(false); 
+	   Serial.println("Temperatura abaixo de 15ºC");
   }
  if(getLuminosidade() > 5){
     ledVerde(true);
-    Serial.println("Luminosidade alta");
+           Serial.println("Luminosidade alta");
  }else{
   	ledVerde(false); 
-    Serial.println("Luminosidade baixa");
+           Serial.println("Luminosidade baixa");
   }
   	
   delay(10);
