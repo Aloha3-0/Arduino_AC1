@@ -1,4 +1,4 @@
-//variaveis da led
+
 const int vermelho = 5;
 const int verde = 6;
 const int azul = 7;
@@ -34,7 +34,7 @@ void loop()
     ledVermelho(true);
   	lastDebounceTime1 = millis();
   }
-    if((millis() - lastDebounceTime2) > botaoDelay && digitalRead(botao2)){//código para exibir o comando apenas uma vez ao apertar o botão
+    if((millis() - lastDebounceTime2) > botaoDelay && digitalRead(botao2)){
   	Serial.println("Sistema desligado");
     ledVermelho(false);
   	lastDebounceTime2 = millis();
@@ -49,12 +49,13 @@ void loop()
   delay(10);
 }
 
-void ledVermelho(){
-  estadoLedVermelho = !estadoLedVermelho;
-  digitalWrite(vermelho,estadoLedVermelho);
+void ledVermelho(bool estado){
+  digitalWrite(vermelho,estado);
+  
 }
-void ledVerde(){
- //precisa fazer  
+void ledVerde(bool estado){
+ digitalWrite(verde,estado);
+ 
 }
 void ledAzul(bool estado){
 	digitalWrite(azul,estado);
@@ -65,7 +66,7 @@ int getTemperatura(){
 	temperaturaC = map(((analogRead(A0) - 20) * 3.04), 0, 1023, -40, 125);
   	return temperaturaC;
 } 
-//funcao de leitura da luminosidade
+
 int getLuminosidade(){
   	int luminosidade;
 	luminosidade = map(analogRead(A1), 6, 619, -3, 10);
