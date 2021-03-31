@@ -45,6 +45,13 @@ void loop()
   }else{
   	ledAzul(false); 
   }
+ if(getLuminosidade() > 5){
+    ledVerde(true);
+    Serial.println("Luminosidade alta");
+ }else{
+  	ledVerde(false); 
+    Serial.println("Luminosidade baixa");
+  }
   	
   delay(10);
 }
