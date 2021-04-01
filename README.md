@@ -5,7 +5,8 @@
 
 Aqui se encontra um pouco sobre os integrantes do grupo e a documentação do nosso projeto completinho!
 
-![](https://github.com/Leoruiz197/Arduino_AC1/blob/main/AC1.png)
+![](https://github.com/Aloha3-0/Arduino_AC1/blob/main/Circuito.jpeg)
+Montagem: Guilherme Ielmini
 
 O nosso grupo foi contratado para realizar a automação do chão de fábrica, de uma farmacêutica responsável por produzir doses de vacina.
 Devemos seguir nossa orientação para que todos usufruam dos produtos.
